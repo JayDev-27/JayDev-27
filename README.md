@@ -207,8 +207,8 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 <div align="center">
 
-<a href="https://github.com/satiricalguru"><img src="https://github-readme-stats-eight-theta.vercel.app/api?username=satiricalguru&show_icons=true&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8&icon_color=e01b34&ring_color=c41226&rank_icon=github" height="170" alt="GitHub stats"></a>
-<a href="https://github.com/satiricalguru"><img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8" height="170" alt="Top languages"></a>
+<a href="https://github.com/satiricalguru"><img src="https://github-stats-extended.vercel.app/api?username=satiricalguru&show_icons=true&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8&icon_color=e01b34&ring_color=c41226&rank_icon=github" height="170" alt="GitHub stats"></a>
+<a href="https://github.com/satiricalguru"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=satiricalguru&layout=compact&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8" height="170" alt="Top languages"></a>
 
 <a href="https://github.com/satiricalguru"><img src="https://streak-stats.demolab.com/?user=satiricalguru&hide_border=true&background=060505&stroke=2a1517&ring=C41226&fire=E01B34&currStreakNum=EDE7DF&currStreakLabel=E01B34&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
 
