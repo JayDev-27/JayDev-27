@@ -1,11 +1,11 @@
-"""Refresh the published project cards from GitHub's public repository list."""
+"""Refresh the published project badges from GitHub's public repository list."""
 
 import html
 import json
 from pathlib import Path
 import subprocess
 import sys
-from urllib.parse import quote
+from urllib.parse import quote, urlencode
 
 owner = sys.argv[1]
 pages = json.loads(subprocess.check_output([
@@ -18,22 +18,22 @@ repos = sorted(
     key=lambda repo: (-repo["stargazers_count"], repo["name"].casefold()),
 )
 
-cards = []
+badges = []
 for repo in repos:
     url = html.escape(repo["html_url"], quote=True)
-    name = html.escape(repo["name"])
-    description = html.escape(repo["description"] or repo["language"] or "GitHub repository")
-    stars = repo["stargazers_count"]
-    cards.append(
-        f'<td width="50%" valign="top"><strong><a href="{url}">{name}</a></strong>'
-        f'<br>{description}<br><a href="{url}/stargazers">★ {stars:,}</a></td>'
-    )
+    name = repo["name"]
+    query = urlencode({
+        "style": "flat-square",
+        "logo": "github",
+        "labelColor": "555",
+        "color": "c41226",
+        "label": name.upper(),
+    })
+    badge = f"https://img.shields.io/github/stars/{quote(repo['full_name'], safe='/')}?{query}"
+    alt = html.escape(f"{name} GitHub stars", quote=True)
+    badges.append(f'<a href="{url}"><img src="{html.escape(badge, quote=True)}" alt="{alt}"></a>')
 
-rows = [
-    "<tr>" + "".join(cards[index:index + 2]) + "</tr>"
-    for index in range(0, len(cards), 2)
-]
-table = "\n".join(["<table>", *rows, "</table>"]) if rows else "No public projects yet."
+group = "\n".join(['<div align="center">', *badges, '</div>']) if badges else "No public projects yet."
 
 readme = Path(__file__).resolve().parents[1] / "README.md"
 start = "<!-- projects:start -->"
@@ -43,6 +43,6 @@ if content.count(start) != 1 or content.count(end) != 1 or content.index(start) 
     raise SystemExit("Expected one ordered pair of project markers.")
 before, _, rest = content.partition(start)
 _, _, after = rest.partition(end)
-updated = f"{before}{start}\n\n{table}\n\n{end}{after}"
+updated = f"{before}{start}\n\n{group}\n\n{end}{after}"
 if updated != content:
     readme.write_text(updated)

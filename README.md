@@ -53,10 +53,11 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 <!-- projects:start -->
 
-<table>
-<tr><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/threejs-library">threejs-library</a></strong><br>JavaScript<br><a href="https://github.com/JayDev-27/threejs-library/stargazers">★ 1</a></td><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/Canary">Canary</a></strong><br>Explainable early warning for population and workforce health using privacy-preserving aggregate signals.<br><a href="https://github.com/JayDev-27/Canary/stargazers">★ 0</a></td></tr>
-<tr><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/open-source-lab">open-source-lab</a></strong><br>Collaborative Open Source Development Lab<br><a href="https://github.com/JayDev-27/open-source-lab/stargazers">★ 0</a></td></tr>
-</table>
+<div align="center">
+<a href="https://github.com/JayDev-27/threejs-library"><img src="https://img.shields.io/github/stars/JayDev-27/threejs-library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=THREEJS-LIBRARY" alt="threejs-library GitHub stars"></a>
+<a href="https://github.com/JayDev-27/Canary"><img src="https://img.shields.io/github/stars/JayDev-27/Canary?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=CANARY" alt="Canary GitHub stars"></a>
+<a href="https://github.com/JayDev-27/open-source-lab"><img src="https://img.shields.io/github/stars/JayDev-27/open-source-lab?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPEN-SOURCE-LAB" alt="open-source-lab GitHub stars"></a>
+</div>
 
 <!-- projects:end -->
 
