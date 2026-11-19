@@ -43,7 +43,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 > **993.** &nbsp;And 986. And 979. And 972…
 >
-> It never really stops. Neither do I — **63 public repos** and counting. Keep subtracting below. ↓
+> It never really stops. Keep subtracting below. ↓
 
 </details>
 
@@ -51,69 +51,11 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 ## 作 &nbsp;Pick a flower
 
-<sub>Every lily opens a different path. Click one.</sub>
-
-<details>
-<summary>🌌 &nbsp;<b>機 · Native &amp; desktop</b> — software that feels at home on the system</summary>
-<br>
-
 | Project | What it is |
 |:--|:--|
-| [**Vantage**](https://github.com/JayDev-27/Vantage) | High-performance live wallpapers for macOS, beneath your desktop icons |
-| [**Contour**](https://github.com/JayDev-27/Contour) | Generative 4K wallpaper studio for macOS, iOS &amp; iPadOS |
-| [**MangaDock**](https://github.com/JayDev-27/MangaDock) | Free, ad-free, open-source reader for manga, manhwa &amp; manhua |
-| [**Kiln**](https://github.com/JayDev-27/Kiln) | Privacy-first local-AI asset forge &amp; universal file converter |
-| [**End4-mac**](https://github.com/JayDev-27/End4-mac) | illogical-impulse reimagined natively with SwiftUI &amp; AppKit |
-| [**Ai-Nexus**](https://github.com/JayDev-27/Ai-Nexus) | Native SwiftUI AI chat for iOS &amp; macOS, cloud and local models |
-| [**Pocket-Music**](https://github.com/JayDev-27/Pocket-Music) · [**Mac-gesture-control**](https://github.com/JayDev-27/Mac-gesture-control) | A Spotify-style local player · touchless macOS control with computer vision |
-
-</details>
-
-<details>
-<summary>🤖 &nbsp;<b>智 · Local AI &amp; agents</b> — private intelligence on your own hardware</summary>
-<br>
-
-| Project | What it is |
-|:--|:--|
-| [**Forge**](https://github.com/JayDev-27/Forge) | Offline AI IDE forked from VS Code, for Ollama, llama.cpp and vLLM |
-| [**OpenBot**](https://github.com/JayDev-27/OpenBot) | Open-source AI teammates, each with its own sandboxed computer |
-| [**Tether**](https://github.com/JayDev-27/Tether) · [**Opencode-bridge**](https://github.com/JayDev-27/Opencode-bridge) | Local-model browser copilot with computer use · free OpenCode, Ollama &amp; OpenRouter models inside Claude Desktop and Codex |
-| [**FloodSetu**](https://github.com/JayDev-27/FloodSetu) · [**Github-Autonomous-Agent**](https://github.com/JayDev-27/Github-Autonomous-Agent) | Multi-agent flood rescue dispatch · autonomous issue triage and test-backed PRs |
-| [**Gemma-graph-nav**](https://github.com/JayDev-27/Gemma-graph-nav) | Should a small LLM navigate your code graph? A Gemma 4 study on a 16 GB Mac |
-| [**Agents-skills**](https://github.com/JayDev-27/Agents-skills) | Curated agentic skills that extend Claude into an engineering companion |
-| [**Verdict**](https://github.com/JayDev-27/Verdict) · [**Local-Bench**](https://github.com/JayDev-27/Local-Bench) | Benchmark 100+ LLMs on live web apps · profile local models offline |
-| [**Agent-Swarm**](https://github.com/JayDev-27/Agent-Swarm) · [**Fast-Jev-Agents**](https://github.com/JayDev-27/Fast-Jev-Agents) | Concurrency stress-testing · verbatim context compaction for coding agents |
-| [**Jarvis**](https://github.com/JayDev-27/Jarvis) · [**Local-Mind**](https://github.com/JayDev-27/Local-Mind) · [**Origin**](https://github.com/JayDev-27/Origin) | Holographic voice assistant · offline AI companion · self-hosted AI workspace |
-
-</details>
-
-<details>
-<summary>🎙️ &nbsp;<b>響 · Real-time audio</b> — voice conversion fast enough to talk through</summary>
-<br>
-
-| Project | What it is |
-|:--|:--|
-| [**Beatrice (Windows)**](https://github.com/JayDev-27/Beatrice-voicechanger-windows) · [**Beatrice (Mac)**](https://github.com/JayDev-27/Beatrice-voicechanger-mac) | Real-time AI voice changer on the Beatrice VST3 engine, ~10 ms on Apple Silicon |
-| [**Aurora-Voicechanger**](https://github.com/JayDev-27/Aurora-Voicechanger) | Ultra-low-latency macOS voice changer: anime and realistic voices, 50 effects, WebGL UI |
-| [**RVC-Voicechanger**](https://github.com/JayDev-27/RVC-Voicechanger) | Retrieval-based voice conversion with a Spotify Pedalboard DSP chain |
-| [**Vcclient-voicechanger**](https://github.com/JayDev-27/Vcclient-voicechanger) | DirectML-accelerated voice changer with a glassmorphic UI |
-| [**EarPods-ANC-Adapter**](https://github.com/JayDev-27/EarPods-ANC-Adapter) · [**Podium**](https://github.com/JayDev-27/Podium) | Inline USB-C ANC hardware · a 3D public-speaking rehearsal studio |
-
-</details>
-
-<details>
-<summary>🔒 &nbsp;<b>破 · Security &amp; reversing</b> — seeing what software really does</summary>
-<br>
-
-| Project | What it is |
-|:--|:--|
-| [**Synthid-remover**](https://github.com/JayDev-27/Synthid-remover) | Strip AI watermarks, C2PA credentials and SynthID signals, 100% locally |
-| [**Wraith**](https://github.com/JayDev-27/Wraith) | Grounding-first AI reverse-engineering co-pilot for Ghidra &amp; Cutter |
-| [**Teardown**](https://github.com/JayDev-27/Teardown) | Extracts design systems from UI screenshots (CV + LLM) |
-| [**DriveVault**](https://github.com/JayDev-27/DriveVault) · [**Proofline**](https://github.com/JayDev-27/Proofline-hackblox) | Client-side Google Drive forensics · wallet-bound verifiable credentials |
-| [**ShopBot**](https://github.com/JayDev-27/ShopBot) · [**ScrollTap**](https://github.com/JayDev-27/ScrollTap) | Flipkart/Amazon stock alerts · precision auto-scroll &amp; auto-tap extension |
-
-</details>
+| [**Canary**](https://github.com/JayDev-27/Canary) | Early warning for workforce and population health using aggregate signals |
+| [**Three.js Library**](https://github.com/JayDev-27/threejs-library) | Procedural 3D worlds and scroll-driven WebGL scenes |
+| [**Open Source Lab**](https://github.com/JayDev-27/open-source-lab) | Collaborative open-source development lab |
 
 <img src="assets/divider.svg" width="100%" alt="">
 
@@ -130,62 +72,6 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <br>
 <img src="assets/canary-site-analysis.jpg" width="100%" alt="Canary site analysis showing sample CSV counts, the rolling baseline chart, and the alert explanation.">
 </details>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Vantage"><img alt="Vantage" src="https://socialify.git.ci/JayDev-27/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Forge"><img alt="Forge" src="https://socialify.git.ci/JayDev-27/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Synthid-remover"><img alt="Synthid-remover" src="https://socialify.git.ci/JayDev-27/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Beatrice-voicechanger-windows"><img alt="Beatrice" src="https://socialify.git.ci/JayDev-27/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/RVC-Voicechanger"><img alt="RVC-Voicechanger" src="https://socialify.git.ci/JayDev-27/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Jarvis"><img alt="Jarvis" src="https://socialify.git.ci/JayDev-27/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Wraith"><img alt="Wraith" src="https://socialify.git.ci/JayDev-27/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-<td align="center" width="50%">
-<a href="https://github.com/JayDev-27/Agents-skills"><img alt="Agents-skills" src="https://socialify.git.ci/JayDev-27/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
-</td>
-</tr>
-</table>
-
-<sub>⭐ Live star counts — every badge is a link</sub><br><br>
-
-<a href="https://github.com/JayDev-27/Beatrice-voicechanger-windows"><img src="https://img.shields.io/github/stars/JayDev-27/Beatrice-voicechanger-windows?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-WINDOWS"></a>
-<a href="https://github.com/JayDev-27/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/JayDev-27/RVC-Voicechanger?style=flat-square&logo=github&labelColor=060505&color=c41226&label=RVC-VOICECHANGER"></a>
-<a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://img.shields.io/github/stars/JayDev-27/Synthid-remover?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SYNTHID-REMOVER"></a>
-<a href="https://github.com/JayDev-27/Jarvis"><img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&logo=github&labelColor=060505&color=c41226&label=JARVIS"></a>
-<a href="https://github.com/JayDev-27/Vantage"><img src="https://img.shields.io/github/stars/JayDev-27/Vantage?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VANTAGE"></a>
-<a href="https://github.com/JayDev-27/Beatrice-voicechanger-mac"><img src="https://img.shields.io/github/stars/JayDev-27/Beatrice-voicechanger-mac?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-MAC"></a>
-<a href="https://github.com/JayDev-27/Agents-skills"><img src="https://img.shields.io/github/stars/JayDev-27/Agents-skills?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENTS-SKILLS"></a>
-<a href="https://github.com/JayDev-27/ShopBot"><img src="https://img.shields.io/github/stars/JayDev-27/ShopBot?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SHOPBOT"></a>
-<a href="https://github.com/JayDev-27/Forge"><img src="https://img.shields.io/github/stars/JayDev-27/Forge?style=flat-square&logo=github&labelColor=060505&color=c41226&label=FORGE"></a>
-<a href="https://github.com/JayDev-27/Local-Mind"><img src="https://img.shields.io/github/stars/JayDev-27/Local-Mind?style=flat-square&logo=github&labelColor=060505&color=c41226&label=LOCAL-MIND"></a>
-<a href="https://github.com/JayDev-27/Verdict"><img src="https://img.shields.io/github/stars/JayDev-27/Verdict?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VERDICT"></a>
-<a href="https://github.com/JayDev-27/Agent-Swarm"><img src="https://img.shields.io/github/stars/JayDev-27/Agent-Swarm?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENT-SWARM"></a>
-<a href="https://github.com/JayDev-27/Origin"><img src="https://img.shields.io/github/stars/JayDev-27/Origin?style=flat-square&logo=github&labelColor=060505&color=c41226&label=ORIGIN"></a>
-<a href="https://github.com/JayDev-27/Wraith"><img src="https://img.shields.io/github/stars/JayDev-27/Wraith?style=flat-square&logo=github&labelColor=060505&color=c41226&label=WRAITH"></a>
-
-</div>
 
 <img src="assets/divider.svg" width="100%" alt="">
 
