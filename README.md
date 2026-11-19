@@ -51,11 +51,14 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 
 ## 作 &nbsp;Pick a flower
 
-| Project | What it is |
-|:--|:--|
-| [**Canary**](https://github.com/JayDev-27/Canary) | Early warning for workforce and population health using aggregate signals |
-| [**Three.js Library**](https://github.com/JayDev-27/threejs-library) | Procedural 3D worlds and scroll-driven WebGL scenes |
-| [**Open Source Lab**](https://github.com/JayDev-27/open-source-lab) | Collaborative open-source development lab |
+<!-- projects:start -->
+
+<table>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/threejs-library">threejs-library</a></strong><br>JavaScript<br><a href="https://github.com/JayDev-27/threejs-library/stargazers">★ 1</a></td><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/Canary">Canary</a></strong><br>Explainable early warning for population and workforce health using privacy-preserving aggregate signals.<br><a href="https://github.com/JayDev-27/Canary/stargazers">★ 0</a></td></tr>
+<tr><td width="50%" valign="top"><strong><a href="https://github.com/JayDev-27/open-source-lab">open-source-lab</a></strong><br>Collaborative Open Source Development Lab<br><a href="https://github.com/JayDev-27/open-source-lab/stargazers">★ 0</a></td></tr>
+</table>
+
+<!-- projects:end -->
 
 <img src="assets/divider.svg" width="100%" alt="">
 
