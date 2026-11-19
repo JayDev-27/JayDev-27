@@ -1,33 +1,310 @@
 <div align="center">
-  <a href="https://jatin-pandey-portfolio.vercel.app/">
-    <img src="assets/higanbana-header.svg" width="100%" alt="Jatin Pandey, app and web developer from India. Illustrated with red spider lilies.">
-  </a>
-  <p><strong>I build web apps, experiment with local-first AI, and make interactive 3D experiences.</strong></p>
-  <p>
-    <a href="https://jatin-pandey-portfolio.vercel.app/">Portfolio</a> ·
-    <a href="https://www.linkedin.com/in/jatin-pandey-dev">LinkedIn</a> ·
-    <a href="https://x.com/JayDevSG">X</a> ·
-    <a href="mailto:jatinjio1212@gmail.com">Email</a>
-  </p>
+
+<a href="https://jatin-pandey-portfolio.vercel.app/"><img src="assets/higanbana-header.svg" width="100%" alt="Jatin Pandey — spider lilies blooming white, then turning red"></a>
+
+<a href="https://jatin-pandey-portfolio.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Shippori+Mincho&weight=500&size=22&duration=2600&pause=800&color=E01B34&center=true&vCenter=true&width=820&lines=%E5%BD%BC%E5%B2%B8%E8%8A%B1+%E2%80%94+white+flowers%2C+turning+red.;Local-first+AI+%C2%B7+native+desktop+%C2%B7+real-time+audio;CTF+grinder+%C2%B7+reverse+engineer+%C2%B7+AI+tinkerer;1000+%E2%88%92+7+%3D+993...+986...+979...;Building+things%2C+breaking+things." alt="Typing intro"></a>
+
+<p>
+<a href="https://jatin-pandey-portfolio.vercel.app/"><img src="https://img.shields.io/badge/%E2%9C%BF_ENTER_THE_FIELD-jatin-pandey-portfolio.vercel.app-c41226?style=for-the-badge&labelColor=060505" alt="Portfolio"></a>
+</p>
+<p>
+<a href="https://github.com/JayDev-27?tab=followers"><img src="https://img.shields.io/github/followers/JayDev-27?style=flat-square&logo=github&labelColor=060505&color=c41226&label=followers"></a>
+<a href="https://hits.sh/github.com/JayDev-27-profile/"><img src="https://hits.sh/github.com/JayDev-27-profile.svg?style=flat-square&color=c41226&labelColor=060505&label=souls+passed+by&extraCount=1392"></a>
+<a href="https://www.linkedin.com/in/jatin-pandey-dev"><img src="https://img.shields.io/badge/LinkedIn-Jatin_Pandey-ede7df?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2VkZTdkZiI+PHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiLz48L3N2Zz4=&labelColor=060505"></a>
+<a href="https://x.com/JayDevSG"><img src="https://img.shields.io/badge/X-@JayDevSG-ede7df?style=flat-square&logo=x&logoColor=ede7df&labelColor=060505"></a>
+<a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/Mail-jatinjio1212-ede7df?style=flat-square&logo=gmail&logoColor=ede7df&labelColor=060505"></a>
+<img src="https://img.shields.io/badge/Open_to-work-c41226?style=flat-square&labelColor=060505">
+<a href="https://github.com/sponsors/JayDev-27"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=flat-square&logo=github-sponsors&logoColor=white&labelColor=060505"></a>
+</p>
+
 </div>
 
-## Featured project
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 序 &nbsp;Prologue
+
+<img align="right" width="160" src="https://avatars.githubusercontent.com/u/279688498?v=4&s=320" alt="Jatin Pandey" style="border-radius:50%">
+
+I build **local-first AI tools**, **native desktop apps** and **real-time audio software** — then take them apart to see exactly where they **break**.
+
+- 🌌 Most of what I make runs **on your machine, not someone else's cloud**: private assistants, ~10 ms voice changers, live wallpaper engines, an AI code editor that sends nothing home.
+- 🩸 Away from shipping I play **CTFs**, read binaries in **Ghidra**, and build tools that show what software is quietly doing behind your back.
+- 🔍 Most projects start as *"let me just inspect this codebase"* and end as a full rewrite with a shipped release.
+
+<br clear="right">
+
+<div align="center">
+<img src="assets/countdown.svg" width="100%" alt="1000 minus 7, counting down">
+</div>
+
+<details>
+<summary>🩸 <b>Quick question… what's 1000 − 7?</b> &nbsp;<sub>(click to answer)</sub></summary>
+<br>
+
+> **993.** &nbsp;And 986. And 979. And 972…
+>
+> It never really stops. Neither do I — **63 public repos** and counting. Keep subtracting below. ↓
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 作 &nbsp;Pick a flower
+
+<sub>Every lily opens a different path. Click one.</sub>
+
+<details>
+<summary>🌌 &nbsp;<b>機 · Native &amp; desktop</b> — software that feels at home on the system</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Vantage**](https://github.com/JayDev-27/Vantage) | High-performance live wallpapers for macOS, beneath your desktop icons |
+| [**Contour**](https://github.com/JayDev-27/Contour) | Generative 4K wallpaper studio for macOS, iOS &amp; iPadOS |
+| [**MangaDock**](https://github.com/JayDev-27/MangaDock) | Free, ad-free, open-source reader for manga, manhwa &amp; manhua |
+| [**Kiln**](https://github.com/JayDev-27/Kiln) | Privacy-first local-AI asset forge &amp; universal file converter |
+| [**End4-mac**](https://github.com/JayDev-27/End4-mac) | illogical-impulse reimagined natively with SwiftUI &amp; AppKit |
+| [**Ai-Nexus**](https://github.com/JayDev-27/Ai-Nexus) | Native SwiftUI AI chat for iOS &amp; macOS, cloud and local models |
+| [**Pocket-Music**](https://github.com/JayDev-27/Pocket-Music) · [**Mac-gesture-control**](https://github.com/JayDev-27/Mac-gesture-control) | A Spotify-style local player · touchless macOS control with computer vision |
+
+</details>
+
+<details>
+<summary>🤖 &nbsp;<b>智 · Local AI &amp; agents</b> — private intelligence on your own hardware</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Forge**](https://github.com/JayDev-27/Forge) | Offline AI IDE forked from VS Code, for Ollama, llama.cpp and vLLM |
+| [**OpenBot**](https://github.com/JayDev-27/OpenBot) | Open-source AI teammates, each with its own sandboxed computer |
+| [**Tether**](https://github.com/JayDev-27/Tether) · [**Opencode-bridge**](https://github.com/JayDev-27/Opencode-bridge) | Local-model browser copilot with computer use · free OpenCode, Ollama &amp; OpenRouter models inside Claude Desktop and Codex |
+| [**FloodSetu**](https://github.com/JayDev-27/FloodSetu) · [**Github-Autonomous-Agent**](https://github.com/JayDev-27/Github-Autonomous-Agent) | Multi-agent flood rescue dispatch · autonomous issue triage and test-backed PRs |
+| [**Gemma-graph-nav**](https://github.com/JayDev-27/Gemma-graph-nav) | Should a small LLM navigate your code graph? A Gemma 4 study on a 16 GB Mac |
+| [**Agents-skills**](https://github.com/JayDev-27/Agents-skills) | Curated agentic skills that extend Claude into an engineering companion |
+| [**Verdict**](https://github.com/JayDev-27/Verdict) · [**Local-Bench**](https://github.com/JayDev-27/Local-Bench) | Benchmark 100+ LLMs on live web apps · profile local models offline |
+| [**Agent-Swarm**](https://github.com/JayDev-27/Agent-Swarm) · [**Fast-Jev-Agents**](https://github.com/JayDev-27/Fast-Jev-Agents) | Concurrency stress-testing · verbatim context compaction for coding agents |
+| [**Jarvis**](https://github.com/JayDev-27/Jarvis) · [**Local-Mind**](https://github.com/JayDev-27/Local-Mind) · [**Origin**](https://github.com/JayDev-27/Origin) | Holographic voice assistant · offline AI companion · self-hosted AI workspace |
+
+</details>
+
+<details>
+<summary>🎙️ &nbsp;<b>響 · Real-time audio</b> — voice conversion fast enough to talk through</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Beatrice (Windows)**](https://github.com/JayDev-27/Beatrice-voicechanger-windows) · [**Beatrice (Mac)**](https://github.com/JayDev-27/Beatrice-voicechanger-mac) | Real-time AI voice changer on the Beatrice VST3 engine, ~10 ms on Apple Silicon |
+| [**Aurora-Voicechanger**](https://github.com/JayDev-27/Aurora-Voicechanger) | Ultra-low-latency macOS voice changer: anime and realistic voices, 50 effects, WebGL UI |
+| [**RVC-Voicechanger**](https://github.com/JayDev-27/RVC-Voicechanger) | Retrieval-based voice conversion with a Spotify Pedalboard DSP chain |
+| [**Vcclient-voicechanger**](https://github.com/JayDev-27/Vcclient-voicechanger) | DirectML-accelerated voice changer with a glassmorphic UI |
+| [**EarPods-ANC-Adapter**](https://github.com/JayDev-27/EarPods-ANC-Adapter) · [**Podium**](https://github.com/JayDev-27/Podium) | Inline USB-C ANC hardware · a 3D public-speaking rehearsal studio |
+
+</details>
+
+<details>
+<summary>🔒 &nbsp;<b>破 · Security &amp; reversing</b> — seeing what software really does</summary>
+<br>
+
+| Project | What it is |
+|:--|:--|
+| [**Synthid-remover**](https://github.com/JayDev-27/Synthid-remover) | Strip AI watermarks, C2PA credentials and SynthID signals, 100% locally |
+| [**Wraith**](https://github.com/JayDev-27/Wraith) | Grounding-first AI reverse-engineering co-pilot for Ghidra &amp; Cutter |
+| [**Teardown**](https://github.com/JayDev-27/Teardown) | Extracts design systems from UI screenshots (CV + LLM) |
+| [**DriveVault**](https://github.com/JayDev-27/DriveVault) · [**Proofline**](https://github.com/JayDev-27/Proofline-hackblox) | Client-side Google Drive forensics · wallet-bound verifiable credentials |
+| [**ShopBot**](https://github.com/JayDev-27/ShopBot) · [**ScrollTap**](https://github.com/JayDev-27/ScrollTap) | Flipkart/Amazon stock alerts · precision auto-scroll &amp; auto-tap extension |
+
+</details>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 華 &nbsp;Featured blooms
 
 ### Canary
 
-An early-warning prototype for workforce and population health, built for the Future Health Digital Innovation Challenge. Canary compares daily aggregate counts with a rolling baseline, shows why an alert was raised, and puts the decision in a human reviewer’s hands. It adds live weather and air-quality context and withholds small counts before scoring.
+Canary is an early-warning prototype for workforce and population health. Upload daily aggregate counts to see why a site was flagged, compare missing-feed scenarios, and record a human review.
 
-[Source code](https://github.com/JayDev-27/Canary) · [Try the sample](https://canary-jatinjio1212-8258s-projects.vercel.app/analyze) · [Reviewer walkthrough](https://github.com/JayDev-27/Canary/blob/main/docs/deployment.md#reviewer-walkthrough)
+[Source code](https://github.com/JayDev-27/Canary) · [Live demo](https://canary-jatinjio1212-8258s-projects.vercel.app/analyze) · [Reviewer walkthrough](https://github.com/JayDev-27/Canary/blob/main/docs/deployment.md#reviewer-walkthrough)
 
-<a href="https://canary-jatinjio1212-8258s-projects.vercel.app/analyze">
-  <img src="assets/canary-site-analysis.jpg" width="100%" alt="Canary’s site analysis screen with a sample CSV, a rolling baseline chart, and an alert explanation.">
-</a>
+<details>
+<summary>See the site analysis screen</summary>
+<br>
+<img src="assets/canary-site-analysis.jpg" width="100%" alt="Canary site analysis showing sample CSV counts, the rolling baseline chart, and the alert explanation.">
+</details>
 
-## More projects
+<div align="center">
 
-- **Three.js Library** brings together procedural worlds and scroll-driven WebGL scenes, including a sunset meadow, an underwater reef, and a Jaipur-inspired cityscape. [Source code](https://github.com/JayDev-27/threejs-library) · [Live gallery](https://threejs-scroll-showcases.vercel.app/)
-- **Open Source Lab** is a repository for collaborative open-source experiments. [Source code](https://github.com/JayDev-27/open-source-lab)
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Vantage"><img alt="Vantage" src="https://socialify.git.ci/JayDev-27/Vantage/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Forge"><img alt="Forge" src="https://socialify.git.ci/JayDev-27/Forge/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Synthid-remover"><img alt="Synthid-remover" src="https://socialify.git.ci/JayDev-27/Synthid-remover/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Beatrice-voicechanger-windows"><img alt="Beatrice" src="https://socialify.git.ci/JayDev-27/Beatrice-voicechanger-windows/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/RVC-Voicechanger"><img alt="RVC-Voicechanger" src="https://socialify.git.ci/JayDev-27/RVC-Voicechanger/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Jarvis"><img alt="Jarvis" src="https://socialify.git.ci/JayDev-27/Jarvis/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Wraith"><img alt="Wraith" src="https://socialify.git.ci/JayDev-27/Wraith/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/JayDev-27/Agents-skills"><img alt="Agents-skills" src="https://socialify.git.ci/JayDev-27/Agents-skills/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark" width="100%"></a>
+</td>
+</tr>
+</table>
 
-## What I’m exploring
+<sub>⭐ Live star counts — every badge is a link</sub><br><br>
 
-I’m interested in software that can run on the device, especially local AI, native macOS apps, and real-time audio. On the web, I work with TypeScript, Next.js, and Three.js. For APIs and data pipelines, I use Python and FastAPI.
+<a href="https://github.com/JayDev-27/Beatrice-voicechanger-windows"><img src="https://img.shields.io/github/stars/JayDev-27/Beatrice-voicechanger-windows?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-WINDOWS"></a>
+<a href="https://github.com/JayDev-27/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/JayDev-27/RVC-Voicechanger?style=flat-square&logo=github&labelColor=060505&color=c41226&label=RVC-VOICECHANGER"></a>
+<a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://img.shields.io/github/stars/JayDev-27/Synthid-remover?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SYNTHID-REMOVER"></a>
+<a href="https://github.com/JayDev-27/Jarvis"><img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&logo=github&labelColor=060505&color=c41226&label=JARVIS"></a>
+<a href="https://github.com/JayDev-27/Vantage"><img src="https://img.shields.io/github/stars/JayDev-27/Vantage?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VANTAGE"></a>
+<a href="https://github.com/JayDev-27/Beatrice-voicechanger-mac"><img src="https://img.shields.io/github/stars/JayDev-27/Beatrice-voicechanger-mac?style=flat-square&logo=github&labelColor=060505&color=c41226&label=BEATRICE-VOICECHANGER-MAC"></a>
+<a href="https://github.com/JayDev-27/Agents-skills"><img src="https://img.shields.io/github/stars/JayDev-27/Agents-skills?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENTS-SKILLS"></a>
+<a href="https://github.com/JayDev-27/ShopBot"><img src="https://img.shields.io/github/stars/JayDev-27/ShopBot?style=flat-square&logo=github&labelColor=060505&color=c41226&label=SHOPBOT"></a>
+<a href="https://github.com/JayDev-27/Forge"><img src="https://img.shields.io/github/stars/JayDev-27/Forge?style=flat-square&logo=github&labelColor=060505&color=c41226&label=FORGE"></a>
+<a href="https://github.com/JayDev-27/Local-Mind"><img src="https://img.shields.io/github/stars/JayDev-27/Local-Mind?style=flat-square&logo=github&labelColor=060505&color=c41226&label=LOCAL-MIND"></a>
+<a href="https://github.com/JayDev-27/Verdict"><img src="https://img.shields.io/github/stars/JayDev-27/Verdict?style=flat-square&logo=github&labelColor=060505&color=c41226&label=VERDICT"></a>
+<a href="https://github.com/JayDev-27/Agent-Swarm"><img src="https://img.shields.io/github/stars/JayDev-27/Agent-Swarm?style=flat-square&logo=github&labelColor=060505&color=c41226&label=AGENT-SWARM"></a>
+<a href="https://github.com/JayDev-27/Origin"><img src="https://img.shields.io/github/stars/JayDev-27/Origin?style=flat-square&logo=github&labelColor=060505&color=c41226&label=ORIGIN"></a>
+<a href="https://github.com/JayDev-27/Wraith"><img src="https://img.shields.io/github/stars/JayDev-27/Wraith?style=flat-square&logo=github&labelColor=060505&color=c41226&label=WRAITH"></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 技 &nbsp;Arsenal
+
+<div align="center">
+
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,swift,rust,cpp,c,react,nextjs,electron&perline=10&theme=dark" /></a>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,pytorch,threejs,docker,sqlite,tailwind,vite,git,github,vscode&perline=10&theme=dark" /></a>
+
+<br><br>
+
+<sub><b>⚡ THE AGENTS I WORK WITH</b> — ranked by how often they're in my terminal</sub>
+<br><br>
+
+<table>
+<tr>
+<td align="center" width="25%"><a href="https://claude.com/claude-code"><img src="https://raw.githubusercontent.com/JayDev-27/JayDev-27/main/assets/icons/claude.png" width="64" height="64" alt="Claude"></a><br><br><b>01 · Claude</b><br><sub>Anthropic — Lead engineer</sub><br><br><a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white&labelColor=060505&color=D97757" alt="Claude"></a></td>
+<td align="center" width="25%"><a href="https://openai.com/codex"><img src="https://raw.githubusercontent.com/JayDev-27/JayDev-27/main/assets/icons/codex.png" width="64" height="64" alt="Codex"></a><br><br><b>02 · Codex</b><br><sub>OpenAI — Coding agent</sub><br><br><a href="https://openai.com/codex"><img src="https://img.shields.io/badge/Codex-ede7df?style=flat-square&logo=openai&logoColor=060505&labelColor=060505&color=ede7df" alt="Codex"></a></td>
+<td align="center" width="25%"><a href="https://antigravity.google"><img src="https://raw.githubusercontent.com/JayDev-27/JayDev-27/main/assets/icons/antigravity.png" width="64" height="64" alt="Antigravity"></a><br><br><b>03 · Antigravity</b><br><sub>Google — Agentic IDE</sub><br><br><a href="https://antigravity.google"><img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=060505&color=4285F4" alt="Antigravity"></a></td>
+<td align="center" width="25%"><a href="https://opencode.ai"><img src="https://raw.githubusercontent.com/JayDev-27/JayDev-27/main/assets/icons/opencode.png" width="64" height="64" alt="OpenCode"></a><br><br><b>04 · OpenCode</b><br><sub>Open source — Terminal agent</sub><br><br><a href="https://opencode.ai"><img src="https://img.shields.io/badge/OpenCode-00DC82?style=flat-square&logo=gnubash&logoColor=white&labelColor=060505&color=00DC82" alt="OpenCode"></a></td>
+</tr>
+</table>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 録 &nbsp;Records
+
+<div align="center">
+
+<a href="https://github.com/JayDev-27"><img src="https://github-stats-extended.vercel.app/api?username=JayDev-27&show_icons=true&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8&icon_color=e01b34&ring_color=c41226&rank_icon=github" height="170" alt="GitHub stats"></a>
+<a href="https://github.com/JayDev-27"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayDev-27&layout=compact&hide_border=true&bg_color=060505&title_color=e01b34&text_color=b9b1a8" height="170" alt="Top languages"></a>
+
+<a href="https://github.com/JayDev-27"><img src="https://streak-stats.demolab.com/?user=JayDev-27&hide_border=true&background=060505&stroke=2a1517&ring=C41226&fire=E01B34&currStreakNum=EDE7DF&currStreakLabel=E01B34&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
+
+<details>
+<summary>🏆 <b>Achievements unlocked</b></summary>
+<br>
+
+<table border="0">
+<tr>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=galaxy-brain">
+    <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="75" alt="Galaxy Brain (Gold x4)" /><br>
+    <b>Galaxy Brain (Gold x4)</b><br>
+    <sub>Accepted Answers</sub>
+  </a>
+</td>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=pull-shark">
+    <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="75" alt="Pull Shark (Silver x3)" /><br>
+    <b>Pull Shark (Silver x3)</b><br>
+    <sub>Merged PRs</sub>
+  </a>
+</td>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=pair-extraordinaire">
+    <img src="https://github.githubassets.com/assets/pair-extraordinaire-gold-5335a3b8ae7d.png" width="75" alt="Pair Extraordinaire (Gold x4)" /><br>
+    <b>Pair Extraordinaire (Gold x4)</b><br>
+    <sub>Co-authored Merges</sub>
+  </a>
+</td>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=starstruck">
+    <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="75" alt="Starstruck" /><br>
+    <b>Starstruck</b><br>
+    <sub>Popular Repository</sub>
+  </a>
+</td>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=yolo">
+    <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="75" alt="YOLO" /><br>
+    <b>YOLO</b><br>
+    <sub>Merged Without Review</sub>
+  </a>
+</td>
+<td align="center" width="16.6%">
+  <a href="https://github.com/JayDev-27?tab=achievements&achievement=quickdraw">
+    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="75" alt="Quickdraw" /><br>
+    <b>Quickdraw</b><br>
+    <sub>Closed Within 5 Min</sub>
+  </a>
+</td>
+</tr>
+</table>
+
+</details>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JayDev-27/JayDev-27/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JayDev-27/JayDev-27/output/github-contribution-grid-snake.svg">
+  <img alt="A snake eating the contribution grid" src="https://raw.githubusercontent.com/JayDev-27/JayDev-27/output/github-contribution-grid-snake.svg">
+</picture>
+
+<sub>🐍 The snake eats a red trail through a year of commits.</sub>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="">
+
+## 連 &nbsp;Say hello
+
+<div align="center">
+
+**Got something worth building?**
+
+<a href="mailto:jatinjio1212@gmail.com"><img src="https://img.shields.io/badge/jatinjio1212@gmail.com-c41226?style=for-the-badge&logo=gmail&logoColor=white&labelColor=060505"></a>
+<a href="https://jatin-pandey-portfolio.vercel.app/#contact"><img src="https://img.shields.io/badge/Portfolio-Contact-ede7df?style=for-the-badge&logo=vercel&logoColor=060505&labelColor=ede7df&color=060505"></a>
+<a href="https://github.com/sponsors/JayDev-27"><img src="https://img.shields.io/badge/Sponsor-%E2%99%A5-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=060505"></a>
+
+<br><br>
+
+<a href="https://jatin-pandey-portfolio.vercel.app/"><img src="assets/higanbana-field.svg" width="100%" alt="A field of white spider lilies turning red"></a>
+
+<sub>The flowers are drawn in code (<a href="scripts/higanbana.py">scripts/higanbana.py</a>) — they bloom white, bleed red, and start again. &nbsp;·&nbsp; 1000 − 7 = 993</sub>
+
+</div>

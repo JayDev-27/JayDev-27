@@ -174,17 +174,15 @@ def header_svg():
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" aria-label="Jatin Pandey — spider lilies blooming white and turning red">
 <title>Jatin Pandey — Higanbana</title>
 <style>svg{{--cycle:14s}}{css}
+.rise{{animation:rise 1.6s cubic-bezier(.19,1,.22,1) both}}
+.r1{{animation-delay:.1s}}.r2{{animation-delay:.35s}}.r3{{animation-delay:.7s}}.r4{{animation-delay:.95s}}
+@keyframes rise{{from{{transform:translateY(40px);opacity:0}}to{{transform:none;opacity:1}}}}
 .dot{{animation:pulse 2.4s ease-out infinite}}
 @keyframes pulse{{0%{{r:4;opacity:1}}70%{{r:12;opacity:0}}100%{{r:4;opacity:0}}}}
-.outline{{fill:none;stroke:#ede7df;stroke-width:2}}
+.outline{{fill:none;stroke:#ede7df;stroke-opacity:.75;stroke-width:1.2;stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 3.2s .6s ease forwards}}
+@keyframes draw{{to{{stroke-dashoffset:0}}}}
 .kv{{animation:kv 14s infinite both}}
 @keyframes kv{{0%,22%{{fill:#b9b1a8}}40%,84%{{fill:#e01b34}}100%{{fill:#b9b1a8}}}}
-@media (prefers-reduced-motion: reduce){{
-  .stem,.tep,.ant,.sta,.head,.pt,.dot,.kv{{animation:none}}
-  .tep,.ant{{fill:{RED}}}
-  .sta{{stroke:#ff2a46}}
-  .pt,.dot{{display:none}}
-}}
 </style>
 <defs><linearGradient id="veil" x1="0" x2="1"><stop offset="0" stop-color="{BG}"/><stop offset=".42" stop-color="{BG}" stop-opacity=".85"/><stop offset=".62" stop-color="{BG}" stop-opacity="0"/></linearGradient>
 <linearGradient id="bot" x1="0" y1="0" x2="0" y2="1"><stop offset=".7" stop-color="{BG}" stop-opacity="0"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>
@@ -194,14 +192,14 @@ def header_svg():
 <rect width="{W}" height="{H}" fill="url(#veil)"/>
 <rect width="{W}" height="{H}" fill="url(#bot)"/>
 <g font-family="{mono}" font-size="12" letter-spacing="3" fill="#b9b1a8">
-  <g><circle class="dot" cx="54" cy="74" r="4" fill="#e01b34"/><circle cx="54" cy="74" r="3.5" fill="#e01b34"/>
+  <g class="rise r1"><circle class="dot" cx="54" cy="74" r="4" fill="#e01b34"/><circle cx="54" cy="74" r="3.5" fill="#e01b34"/>
   <text x="70" y="78">APP &amp; WEB DEVELOPER — INDIA</text></g>
 </g>
 <g font-family="{serif}" font-weight="500" letter-spacing="-4">
-  <text x="44" y="198" font-size="124" fill="#ede7df">Jatin</text>
+  <text class="rise r2" x="44" y="198" font-size="124" fill="#ede7df">Jatin</text>
   <text class="outline" x="118" y="302" font-size="124">Pandey</text>
 </g>
-<g font-family="{mono}" font-size="12" letter-spacing="2.5" fill="#7d756e">
+<g class="rise r4" font-family="{mono}" font-size="12" letter-spacing="2.5" fill="#7d756e">
   <text x="48" y="352">BUILDING THINGS, <tspan fill="#e01b34">BREAKING</tspan> THINGS, AND OCCASIONALLY FIXING THEM.</text>
 </g>
 <text class="kv" x="{W - 30}" y="70" font-family="{serif}" font-size="16" letter-spacing="10" writing-mode="tb" glyph-orientation-vertical="0">彼岸花・咲いて赤く染まる</text>
