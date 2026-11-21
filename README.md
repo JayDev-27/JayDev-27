@@ -130,12 +130,12 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <!-- projects:start -->
 
 <div align="center">
+<a href="https://github.com/JayDev-27/Airshift"><img src="https://img.shields.io/github/stars/JayDev-27/Airshift?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AIRSHIFT" alt="Airshift GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Canary"><img src="https://img.shields.io/github/stars/JayDev-27/Canary?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=CANARY" alt="Canary GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Hikari"><img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=HIKARI" alt="Hikari GitHub stars"></a>
 <a href="https://github.com/JayDev-27/threejs-library"><img src="https://img.shields.io/github/stars/JayDev-27/threejs-library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=THREEJS-LIBRARY" alt="threejs-library GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Vantage"><img src="https://img.shields.io/github/stars/JayDev-27/Vantage?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=VANTAGE" alt="Vantage GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Ai-atlas"><img src="https://img.shields.io/github/stars/JayDev-27/Ai-atlas?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AI-ATLAS" alt="Ai-atlas GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Airshift"><img src="https://img.shields.io/github/stars/JayDev-27/Airshift?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AIRSHIFT" alt="Airshift GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Aurora-Voice"><img src="https://img.shields.io/github/stars/JayDev-27/Aurora-Voice?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AURORA-VOICE" alt="Aurora-Voice GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Brawlverse"><img src="https://img.shields.io/github/stars/JayDev-27/Brawlverse?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=BRAWLVERSE" alt="Brawlverse GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Frontend-Library"><img src="https://img.shields.io/github/stars/JayDev-27/Frontend-Library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=FRONTEND-LIBRARY" alt="Frontend-Library GitHub stars"></a>
