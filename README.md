@@ -130,9 +130,9 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <!-- projects:start -->
 
 <div align="center">
+<a href="https://github.com/JayDev-27/Frontend-Library"><img src="https://img.shields.io/github/stars/JayDev-27/Frontend-Library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=FRONTEND-LIBRARY" alt="Frontend-Library GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Airshift"><img src="https://img.shields.io/github/stars/JayDev-27/Airshift?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AIRSHIFT" alt="Airshift GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Canary"><img src="https://img.shields.io/github/stars/JayDev-27/Canary?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=CANARY" alt="Canary GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Frontend-Library"><img src="https://img.shields.io/github/stars/JayDev-27/Frontend-Library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=FRONTEND-LIBRARY" alt="Frontend-Library GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Hikari"><img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=HIKARI" alt="Hikari GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Portfolio"><img src="https://img.shields.io/github/stars/JayDev-27/Portfolio?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=PORTFOLIO" alt="Portfolio GitHub stars"></a>
 <a href="https://github.com/JayDev-27/threejs-library"><img src="https://img.shields.io/github/stars/JayDev-27/threejs-library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=THREEJS-LIBRARY" alt="threejs-library GitHub stars"></a>
@@ -142,6 +142,7 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <a href="https://github.com/JayDev-27/Brawlverse"><img src="https://img.shields.io/github/stars/JayDev-27/Brawlverse?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=BRAWLVERSE" alt="Brawlverse GitHub stars"></a>
 <a href="https://github.com/JayDev-27/glimmerfold"><img src="https://img.shields.io/github/stars/JayDev-27/glimmerfold?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=GLIMMERFOLD" alt="glimmerfold GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Jarvis"><img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=JARVIS" alt="Jarvis GitHub stars"></a>
+<a href="https://github.com/JayDev-27/LeadOrbit"><img src="https://img.shields.io/github/stars/JayDev-27/LeadOrbit?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=LEADORBIT" alt="LeadOrbit GitHub stars"></a>
 <a href="https://github.com/JayDev-27/open-source-lab"><img src="https://img.shields.io/github/stars/JayDev-27/open-source-lab?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPEN-SOURCE-LAB" alt="open-source-lab GitHub stars"></a>
 <a href="https://github.com/JayDev-27/OpenBot"><img src="https://img.shields.io/github/stars/JayDev-27/OpenBot?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENBOT" alt="OpenBot GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Opencode-bridge"><img src="https://img.shields.io/github/stars/JayDev-27/Opencode-bridge?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENCODE-BRIDGE" alt="Opencode-bridge GitHub stars"></a>
