@@ -178,7 +178,7 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <a href="https://github.com/JayDev-27"><img src="https://github-stats-extended.vercel.app/api?username=JayDev-27&show_icons=true&hide_border=true&bg_color=080606&title_color=e0263f&text_color=b9b1a8&icon_color=e0263f&ring_color=e0263f&rank_icon=github" height="165" alt="GitHub stats"></a>
 <a href="https://github.com/JayDev-27"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=JayDev-27&layout=compact&hide_border=true&bg_color=080606&title_color=e0263f&text_color=b9b1a8" height="165" alt="Top languages"></a>
 
-<a href="https://github.com/JayDev-27"><img src="https://streak-stats.demolab.com/?user=JayDev-27&hide_border=true&background=080606&stroke=2a1517&ring=e0263f&fire=e0263f&currStreakNum=EDE7DF&currStreakLabel=e0263f&sideNums=EDE7DF&sideLabels=B9B1A8&dates=7D756E" width="70%" alt="Streak"></a>
+<a href="https://github.com/JayDev-27"><img src="assets/streak-stats.svg" width="70%" alt="Streak"></a>
 
 <details>
 <summary>🏆 <b>Achievements unlocked</b></summary>
