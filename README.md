@@ -48,7 +48,7 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 <sub>Real-time AI voice changer · 112 voices · ~10 ms · fully on-device</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/Synthid-remover.jpg" width="100%" alt="SynthID Remover"></a>
+<a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://raw.githubusercontent.com/JayDev-27/Synthid-remover/main/assets/hero.png" width="100%" alt="SynthID Remover"></a>
 <b>SynthID Remover</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/Synthid-remover?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
 <sub>Strips AI watermarks, C2PA credentials and SynthID signals, locally</sub>
 </td>
@@ -60,50 +60,38 @@ I build **local-first AI tools**, **native desktop apps** and **real-time audio 
 <sub>3D web brawler · Three.js, Blender MCP and Tripo 3D assets</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://jarvis-ai-hud-one.vercel.app"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/Jarvis.jpg" width="100%" alt="Jarvis"></a>
-<b>Jarvis</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
-<sub>Holographic voice assistant · voice cloning · real macOS actions</sub>
+<a href="https://github.com/JayDev-27/Hikari"><img src="https://raw.githubusercontent.com/JayDev-27/Hikari/main/assets/readme/studio-dark.png" width="100%" alt="Hikari"></a>
+<b>Hikari</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
+<sub>Local-first anime AI companion for macOS with Live2D/VRM and phoneme lip-sync</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/JayDev-27/Vantage"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/Vantage.jpg" width="100%" alt="Vantage"></a>
+<a href="https://github.com/JayDev-27/Vantage"><img src="https://raw.githubusercontent.com/JayDev-27/Vantage/main/assets/screenshots/app-discover.jpg" width="100%" alt="Vantage"></a>
 <b>Vantage</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/Vantage?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
-<sub>Free live wallpapers for macOS, beneath your desktop icons</sub>
+<sub>Fast, free live wallpapers for macOS, beneath your desktop icons</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/JayDev-27/OpenBot"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/OpenBot.jpg" width="100%" alt="OpenBot"></a>
-<b>OpenBot</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/OpenBot?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
-<sub>Open-source AI teammates, each with its own sandboxed computer</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://github.com/satiricalguru/Forge"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/Forge.jpg" width="100%" alt="Forge"></a>
-<b>Forge</b> &nbsp;<br>
-<sub>Offline AI IDE forked from VS Code · Ollama, LM Studio, vLLM</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/satiricalguru/Wraith"><img src="https://raw.githubusercontent.com/JayDev-27/Portfolio/main/public/projects/Wraith.jpg" width="100%" alt="Wraith"></a>
-<b>Wraith</b> &nbsp;<br>
-<sub>Grounding-first AI reverse-engineering co-pilot for Ghidra &amp; Cutter</sub>
+<a href="https://github.com/JayDev-27/ledgerlite"><img src="https://raw.githubusercontent.com/JayDev-27/ledgerlite/main/docs/screenshots/landing.jpg" width="100%" alt="LedgerLite"></a>
+<b>LedgerLite</b> &nbsp;<img src="https://img.shields.io/github/stars/JayDev-27/ledgerlite?style=flat-square&labelColor=080606&color=e0263f&label=%E2%98%85"><br>
+<sub>Local-first personal finance manager · React 18, TypeScript &amp; Three.js</sub>
 </td>
 </tr>
 </table>
 
 <details>
-<summary>▸ <b>More builds</b> — MangaDock · FloodSetu · Frontend Library · RVC · Agents-skills · Kiln · Aurora…</summary>
+<summary>▸ <b>More builds</b> — MangaDock · FloodSetu · Frontend Library · RVC · Jarvis · OpenBot · Aurora…</summary>
 <br>
 
 | Project | What it is |
 |:--|:--|
+| [**Jarvis**](https://github.com/JayDev-27/Jarvis) | Holographic voice assistant with voice cloning &amp; real macOS actions |
+| [**OpenBot**](https://github.com/JayDev-27/OpenBot) | Open-source AI teammates, each with its own sandboxed computer |
 | [**MangaDock**](https://mangadock.vercel.app) | Free, ad-free, open-source reader for manga, manhwa &amp; manhua |
 | [**FloodSetu**](https://floodsetu.vercel.app) | Multi-agent flood rescue dispatch with offline SOS and a tamper-evident ledger |
 | [**Frontend Library**](https://github.com/JayDev-27/Frontend-Library) | 14,500+ curated frontend assets with live previews |
 | [**RVC Voice Changer**](https://github.com/JayDev-27/RVC-Voicechanger) | Retrieval-based voice conversion with a Pedalboard DSP chain |
-| [**Agents-skills**](https://github.com/satiricalguru/Agents-skills) | Agentic skills that turn Claude into an engineering companion |
-| [**Kiln**](https://github.com/satiricalguru/Kiln) · [**Aurora**](https://github.com/JayDev-27/Aurora-Voice) | Local-AI asset forge · ultra-low-latency macOS voice changer |
-| [**Tether**](https://github.com/satiricalguru/Tether) · [**Opencode-bridge**](https://github.com/JayDev-27/Opencode-bridge) | Local browser copilot with computer use · free models inside Claude Desktop |
+| [**Aurora**](https://github.com/JayDev-27/Aurora-Voice) · [**Opencode-bridge**](https://github.com/JayDev-27/Opencode-bridge) | Ultra-low-latency macOS voice changer · free models inside Claude Desktop |
 
 </details>
 
@@ -146,6 +134,7 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <a href="https://github.com/JayDev-27/iki"><img src="https://img.shields.io/github/stars/JayDev-27/iki?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=IKI" alt="iki GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Jarvis"><img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=JARVIS" alt="Jarvis GitHub stars"></a>
 <a href="https://github.com/JayDev-27/LeadOrbit"><img src="https://img.shields.io/github/stars/JayDev-27/LeadOrbit?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=LEADORBIT" alt="LeadOrbit GitHub stars"></a>
+<a href="https://github.com/JayDev-27/ledgerlite"><img src="https://img.shields.io/github/stars/JayDev-27/ledgerlite?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=LEDGERLITE" alt="ledgerlite GitHub stars"></a>
 <a href="https://github.com/JayDev-27/open-source-lab"><img src="https://img.shields.io/github/stars/JayDev-27/open-source-lab?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPEN-SOURCE-LAB" alt="open-source-lab GitHub stars"></a>
 <a href="https://github.com/JayDev-27/OpenBot"><img src="https://img.shields.io/github/stars/JayDev-27/OpenBot?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENBOT" alt="OpenBot GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Opencode-bridge"><img src="https://img.shields.io/github/stars/JayDev-27/Opencode-bridge?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENCODE-BRIDGE" alt="Opencode-bridge GitHub stars"></a>
@@ -214,12 +203,11 @@ Canary is an early-warning prototype for workforce and population health. Upload
 
 <table border="0">
 <tr>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="64" alt="Galaxy Brain"><br><sub>Galaxy Brain ×4</sub></td>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="64" alt="Pull Shark"><br><sub>Pull Shark ×3</sub></td>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/pair-extraordinaire-gold-5335a3b8ae7d.png" width="64" alt="Pair Extraordinaire"><br><sub>Pair Extraordinaire ×4</sub></td>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="64" alt="Starstruck"><br><sub>Starstruck</sub></td>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="YOLO"><br><sub>YOLO</sub></td>
-<td align="center" width="16.6%"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" alt="Quickdraw"><br><sub>Quickdraw</sub></td>
+<td align="center" width="20%"><img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="64" alt="YOLO"><br><sub>YOLO</sub></td>
+<td align="center" width="20%"><img src="https://github.githubassets.com/assets/pull-shark-bronze-a37accb528d1.png" width="64" alt="Pull Shark"><br><sub>Pull Shark ×2</sub></td>
+<td align="center" width="20%"><img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="64" alt="Pair Extraordinaire"><br><sub>Pair Extraordinaire</sub></td>
+<td align="center" width="20%"><img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="64" alt="Quickdraw"><br><sub>Quickdraw</sub></td>
+<td align="center" width="20%"><img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="64" alt="Public Sponsor"><br><sub>Public Sponsor</sub></td>
 </tr>
 </table>
 
