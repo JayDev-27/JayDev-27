@@ -14,9 +14,9 @@ pages = json.loads(subprocess.check_output([
 ]))
 repos = sorted(
     (repo for page in pages for repo in page
-     if not repo["private"] and repo["name"].casefold() != owner.casefold()),
+     if not repo["private"] and not repo["fork"] and repo["name"].casefold() != owner.casefold()),
     key=lambda repo: (-repo["stargazers_count"], repo["name"].casefold()),
-)
+)[:8]
 
 badges = []
 for repo in repos:

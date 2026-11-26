@@ -111,9 +111,9 @@ Canary is an early-warning prototype for workforce and population health. Upload
 
 <img src="assets/divider.svg" width="100%" alt="">
 
-## ▦ &nbsp;All public projects
+## ▦ &nbsp;Top public projects
 
-<sub>Synced hourly from this account's public repositories.</sub>
+<sub>Top non-forked public repositories by stars, synced hourly.</sub>
 
 <!-- projects:start -->
 
@@ -125,24 +125,7 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <a href="https://github.com/JayDev-27/Canary"><img src="https://img.shields.io/github/stars/JayDev-27/Canary?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=CANARY" alt="Canary GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Hikari"><img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=HIKARI" alt="Hikari GitHub stars"></a>
 <a href="https://github.com/JayDev-27/innodata-task-factory"><img src="https://img.shields.io/github/stars/JayDev-27/innodata-task-factory?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=INNODATA-TASK-FACTORY" alt="innodata-task-factory GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Portfolio"><img src="https://img.shields.io/github/stars/JayDev-27/Portfolio?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=PORTFOLIO" alt="Portfolio GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://img.shields.io/github/stars/JayDev-27/Synthid-remover?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=SYNTHID-REMOVER" alt="Synthid-remover GitHub stars"></a>
-<a href="https://github.com/JayDev-27/threejs-library"><img src="https://img.shields.io/github/stars/JayDev-27/threejs-library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=THREEJS-LIBRARY" alt="threejs-library GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Ai-atlas"><img src="https://img.shields.io/github/stars/JayDev-27/Ai-atlas?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AI-ATLAS" alt="Ai-atlas GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Aurora-Voice"><img src="https://img.shields.io/github/stars/JayDev-27/Aurora-Voice?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=AURORA-VOICE" alt="Aurora-Voice GitHub stars"></a>
-<a href="https://github.com/JayDev-27/glimmerfold"><img src="https://img.shields.io/github/stars/JayDev-27/glimmerfold?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=GLIMMERFOLD" alt="glimmerfold GitHub stars"></a>
-<a href="https://github.com/JayDev-27/iki"><img src="https://img.shields.io/github/stars/JayDev-27/iki?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=IKI" alt="iki GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Jarvis"><img src="https://img.shields.io/github/stars/JayDev-27/Jarvis?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=JARVIS" alt="Jarvis GitHub stars"></a>
-<a href="https://github.com/JayDev-27/LeadOrbit"><img src="https://img.shields.io/github/stars/JayDev-27/LeadOrbit?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=LEADORBIT" alt="LeadOrbit GitHub stars"></a>
 <a href="https://github.com/JayDev-27/ledgerlite"><img src="https://img.shields.io/github/stars/JayDev-27/ledgerlite?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=LEDGERLITE" alt="ledgerlite GitHub stars"></a>
-<a href="https://github.com/JayDev-27/open-source-lab"><img src="https://img.shields.io/github/stars/JayDev-27/open-source-lab?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPEN-SOURCE-LAB" alt="open-source-lab GitHub stars"></a>
-<a href="https://github.com/JayDev-27/OpenBot"><img src="https://img.shields.io/github/stars/JayDev-27/OpenBot?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENBOT" alt="OpenBot GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Opencode-bridge"><img src="https://img.shields.io/github/stars/JayDev-27/Opencode-bridge?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=OPENCODE-BRIDGE" alt="Opencode-bridge GitHub stars"></a>
-<a href="https://github.com/JayDev-27/pixeltunes"><img src="https://img.shields.io/github/stars/JayDev-27/pixeltunes?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=PIXELTUNES" alt="pixeltunes GitHub stars"></a>
-<a href="https://github.com/JayDev-27/RVC-Voicechanger"><img src="https://img.shields.io/github/stars/JayDev-27/RVC-Voicechanger?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=RVC-VOICECHANGER" alt="RVC-Voicechanger GitHub stars"></a>
-<a href="https://github.com/JayDev-27/siyaverse"><img src="https://img.shields.io/github/stars/JayDev-27/siyaverse?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=SIYAVERSE" alt="siyaverse GitHub stars"></a>
-<a href="https://github.com/JayDev-27/smolchat-mac"><img src="https://img.shields.io/github/stars/JayDev-27/smolchat-mac?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=SMOLCHAT-MAC" alt="smolchat-mac GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Threejs-scroll-showcases"><img src="https://img.shields.io/github/stars/JayDev-27/Threejs-scroll-showcases?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=THREEJS-SCROLL-SHOWCASES" alt="Threejs-scroll-showcases GitHub stars"></a>
 </div>
 
 <!-- projects:end -->
