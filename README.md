@@ -118,9 +118,9 @@ Canary is an early-warning prototype for workforce and population health. Upload
 <!-- projects:start -->
 
 <div align="center">
+<a href="https://github.com/JayDev-27/Hikari"><img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=HIKARI" alt="Hikari GitHub stars"></a>
 <a href="https://github.com/JayDev-27/beatrice-voicechanger-macos"><img src="https://img.shields.io/github/stars/JayDev-27/beatrice-voicechanger-macos?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=BEATRICE-VOICECHANGER-MACOS" alt="beatrice-voicechanger-macos GitHub stars"></a>
 <a href="https://github.com/JayDev-27/beatrice-voicechanger-windows"><img src="https://img.shields.io/github/stars/JayDev-27/beatrice-voicechanger-windows?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=BEATRICE-VOICECHANGER-WINDOWS" alt="beatrice-voicechanger-windows GitHub stars"></a>
-<a href="https://github.com/JayDev-27/Hikari"><img src="https://img.shields.io/github/stars/JayDev-27/Hikari?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=HIKARI" alt="Hikari GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Synthid-remover"><img src="https://img.shields.io/github/stars/JayDev-27/Synthid-remover?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=SYNTHID-REMOVER" alt="Synthid-remover GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Vantage"><img src="https://img.shields.io/github/stars/JayDev-27/Vantage?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=VANTAGE" alt="Vantage GitHub stars"></a>
 <a href="https://github.com/JayDev-27/Frontend-Library"><img src="https://img.shields.io/github/stars/JayDev-27/Frontend-Library?style=flat-square&amp;logo=github&amp;labelColor=555&amp;color=c41226&amp;label=FRONTEND-LIBRARY" alt="Frontend-Library GitHub stars"></a>
